@@ -9,6 +9,12 @@ A Java web application for students to submit campus complaints and track their 
 - Administrators can view all complaints and mark them as **Pending**, **In Progress**, or **Resolved**.
 - Role checks protect the student and administrator pages.
 
+## GitHub Pages
+
+The repository publishes a static project showcase with GitHub Pages. Pages cannot run JSP, Java servlets, or PostgreSQL, so the showcase is informational only; use Tomcat to run the interactive application. After the Pages workflow succeeds, visit:
+
+<https://sahil07-codes.github.io/Campus_Complaint_Management/>
+
 ## Technology
 
 - Java 21
